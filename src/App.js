@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <AddList/>
       <GetList/>
+      <p>hello</p>
     </div>
   );
 }
